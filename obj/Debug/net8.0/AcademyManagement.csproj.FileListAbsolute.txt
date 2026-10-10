@@ -1,0 +1,15 @@
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.AssemblyInfoInputs.cache
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.AssemblyInfo.cs
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.csproj.CoreCompileInputs.cache
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.exe
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.deps.json
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.runtimeconfig.json
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.dll
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.pdb
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.dll
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\refint\AcademyManagement.dll
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.pdb
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.genruntimeconfig.cache
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\ref\AcademyManagement.dll
+C:\Users\LaptopCenter\source\repos\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyM.D27FAEA4.Up2Date
